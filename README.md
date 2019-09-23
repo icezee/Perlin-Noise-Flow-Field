@@ -3,3 +3,11 @@ Artistic take on particles moving through a Perlin noise flow field. This was a 
 
 ![Image of the Flow Field](PerlinNoise.png)
 
+## Built With:
+- p5.js
+
+## Inspired By:
+Danial Shiffman's ![series on Perlin Noise](https://www.youtube.com/watch?v=Qf4dIN99e2w&t=5s)
+
+## Author
+- Donald Wolfson
